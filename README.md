@@ -12,7 +12,10 @@
 
 ## 示範影片
 
-[示範影片](https://github.com/user-attachments/assets/2d539650-7342-4385-96db-a5239f3c941b)
+[示範影片]
+
+https://github.com/user-attachments/assets/05768bee-c7c6-49e9-bd99-047adc7e7943
+
 
 ## 系統結構
 1. **LED 控制**：通過C程式(PS端)與Verilog(PL端)實現LED燈的開關控制。
